@@ -12,7 +12,7 @@ To run the application, simply download complete code, run the script file to cr
 * Delete View - This view demonstrates deleting existing employees
   * ![image](https://github.com/user-attachments/assets/fafd7f96-fa55-4c0e-8423-caaf380e8820)
 
-# Key take aways
+# Key takeaways
 
 * ASP.NET MVC
 * .NET Core 8.0
