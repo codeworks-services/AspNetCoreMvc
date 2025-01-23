@@ -1,0 +1,14 @@
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\bin\Debug\net8.0\AspNetCoreMvcCrud.Data.deps.json
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\bin\Debug\net8.0\AspNetCoreMvcCrud.Data.runtimeconfig.json
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\bin\Debug\net8.0\AspNetCoreMvcCrud.Data.dll
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\bin\Debug\net8.0\AspNetCoreMvcCrud.Data.pdb
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\AspNetCoreMvcCrud.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\AspNetCoreMvcCrud.Data.AssemblyInfoInputs.cache
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\AspNetCoreMvcCrud.Data.AssemblyInfo.cs
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\AspNetCoreMvcCrud.Data.csproj.CoreCompileInputs.cache
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\AspNetCoreMvcCrud.Data.dll
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\refint\AspNetCoreMvcCrud.Data.dll
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\AspNetCoreMvcCrud.Data.pdb
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\AspNetCoreMvcCrud.Data.genruntimeconfig.cache
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\ref\AspNetCoreMvcCrud.Data.dll
+D:\Projects\AspNetCoreMvcCrud\AspNetCoreMvcCrud.Data\obj\Debug\net8.0\AspNetCoreMvcCrud.Data.csproj.AssemblyReference.cache

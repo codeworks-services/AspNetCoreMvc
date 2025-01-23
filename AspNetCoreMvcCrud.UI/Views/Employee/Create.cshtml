@@ -1,0 +1,23 @@
+﻿@model AspNetCoreMvcCrud.Data.Models.Employee
+
+<h2>Create Employee</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="EmpName"></label>
+        <input asp-for="EmpName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Position"></label>
+        <input asp-for="Position" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Office"></label>
+        <input asp-for="Office" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Salary"></label>
+        <input asp-for="Salary" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

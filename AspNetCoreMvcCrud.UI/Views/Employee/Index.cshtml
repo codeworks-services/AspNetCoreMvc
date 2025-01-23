@@ -1,0 +1,34 @@
+﻿@model IEnumerable<AspNetCoreMvcCrud.Data.Models.Employee>
+
+<h2>Employee List</h2>
+
+<p>
+    <a href="@Url.Action("Create")">Create New</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Position</th>
+            <th>Office</th>
+            <th>Salary</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.EmpName</td>
+                <td>@employee.Position</td>
+                <td>@employee.Office</td>
+                <td>@employee.Salary</td>
+                <td>
+                    <a href="@Url.Action("Edit", new { id = employee.EmployeeId })">Edit</a> |
+                    <a href="@Url.Action("Delete", new { id = employee.EmployeeId })">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AspNetCoreMvcCrud.UI.props" />
+</Project>
